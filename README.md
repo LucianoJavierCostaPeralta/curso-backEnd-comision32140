@@ -30,13 +30,8 @@ A terminal will open, in the text editor. The result will be one similar to the 
 
 - Now run the following command to see the output of the example script.
 
-``` sh 
-node main.js 
+``` sh
+node main.js
 ```
 
 ![image](https://user-images.githubusercontent.com/72939047/190008664-0db456d4-9cc8-45f9-b4df-9978bc39137e.png)
-
-
-
-
-
