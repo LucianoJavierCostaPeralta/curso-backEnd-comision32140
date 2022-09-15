@@ -35,7 +35,7 @@ console.log(users.getFullName());
 
 users.addPets('monky');
 
-console.log(users.countPets());
+console.log("Pets : " + users.countPets());
 
 users.addBook('python', 'Kevin');
 
